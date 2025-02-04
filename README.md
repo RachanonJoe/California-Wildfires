@@ -1,9 +1,9 @@
 # About the dataset
 This dataset is provided by the California Department of Forestry and Fire Protection (CAL FIRE) in collaboration with the National Interagency Fire Center (NIFC) and the Fire Integrated Real-Time Intelligence System (FIRIS).
-https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data/data?select=b8aeb030-140d-43d2-aa29-1a80862e3d62.csv
 
 # Disclaimer
-This analyse is for my practicing and use the existing data on Kaggle.
+This analyse is for my practicing only. Dataset on this analysis is from Kaggle.
+https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data/data?select=b8aeb030-140d-43d2-aa29-1a80862e3d62.csv
 
 # Citation:
 CAL FIRE, "California Wildfire Perimeter Data: Real-Time Insights from FIRIS & NIFC," California Open Data Portal. Available at: https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::ca-perimeters-nifc-firis-public-view
